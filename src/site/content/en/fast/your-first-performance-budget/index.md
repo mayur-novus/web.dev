@@ -145,7 +145,7 @@ There's room for improvement and a good guideline for that is the [20% rule](htt
 
 <div class="w-table-wrapper">
   <table>
-  <caption>Performance budget that would get doggos.com ahead of the competition</caption>
+  <caption>Performance budget that would get doggos.io ahead of the competition</caption>
     <tr>
       <td>Measure
   </td>
